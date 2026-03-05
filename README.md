@@ -2,15 +2,15 @@
 <br>
 # Task-02: Data Cleaning and Exploratory Data Analysis (Titanic Dataset)
 
-## 📌 Internship
+## Internship
 
 This project is completed as part of the **Prodigy Infotech Data Science Internship**.
 
-## 📊 Objective
+## Objective
 
 The objective of this task is to perform **data cleaning and exploratory data analysis (EDA)** to understand patterns and relationships in the Titanic dataset and identify factors that influenced passenger survival.
 
-## 📁 Dataset
+## Dataset
 
 The dataset used in this project is the **Titanic training dataset (`train.csv`)**.
 
@@ -31,7 +31,7 @@ This dataset contains information about passengers aboard the Titanic and includ
 * **Cabin** – Cabin number
 * **Embarked** – Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * Jupyter Notebook
@@ -40,7 +40,7 @@ This dataset contains information about passengers aboard the Titanic and includ
 * Matplotlib
 * Seaborn
 
-## 🔍 Steps Performed
+## Steps Performed
 
 ### 1. Data Loading
 
@@ -74,14 +74,14 @@ Several visualizations were created to explore relationships between variables:
 
 These visualizations help in identifying trends and patterns affecting survival.
 
-## 📈 Key Insights
+## Key Insights
 
 * Female passengers had a **higher survival rate** compared to male passengers.
 * Passengers in **first class had better survival chances** than those in second or third class.
 * Most passengers were between **20 and 40 years of age**.
 * Passenger class and gender were significant factors influencing survival.
 
-## 🎯 Outcome
+## Outcome
 
 This task helped develop skills in:
 
@@ -90,12 +90,12 @@ This task helped develop skills in:
 * Data visualization
 * Interpreting insights from real-world datasets
 
-## 📂 Project Files
+## Project Files
 
 * `Task02.ipynb` – Jupyter Notebook containing analysis and visualizations
 * `train.csv` – Titanic dataset used for analysis
 
-## 🚀 Author
+## Author
 
 **Sudhanshu Yadav**
 Master’s Student in **Survey Research and Data Analytics**
